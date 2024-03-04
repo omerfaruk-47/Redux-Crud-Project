@@ -26,4 +26,3 @@ This project includes a simple Todo application that performs CRUD (Create, Read
 <h2> Screenshot </h2>
 
 ![Screenshot](/public/crud.gif)
-# Redux-Crud-Project
